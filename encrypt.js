@@ -1,4 +1,4 @@
-// 小代哥哥给大家送福利  代码已混淆加密 哈哈哈哈~~~~~~~~
+
 
 /*
  *   var sha = yh_sha1('password 123') console.log(sha)
